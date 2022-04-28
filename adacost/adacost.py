@@ -1,4 +1,4 @@
-from sklearn.ensemble.weight_boosting import BaseWeightBoosting
+from sklearn.ensemble._weight_boosting import BaseWeightBoosting
 import numpy as np
 import pandas as pd
 from numpy.core.umath_tests import inner1d
